@@ -3,3 +3,5 @@ TEst Git Quick Start demo
 kkf
 
 modositok a file-on hogy az uj branchbe kommitolhassam a valtozasokat.
+
+kiskacsa fürdik fekete tóban
