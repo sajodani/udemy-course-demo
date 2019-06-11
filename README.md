@@ -8,3 +8,5 @@ introduction to this cool project.
 Hello world!
 
 barack obama
+
+modositom a mastert, mikozben masik branch is modosult
